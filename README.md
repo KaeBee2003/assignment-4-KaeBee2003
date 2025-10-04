@@ -1,7 +1,3 @@
-Of course\! Here is an updated and comprehensive `README.md` file that reflects the changes and final results in your modified Jupyter Notebook.
-
------
-
 # Credit Card Fraud Detection with Advanced Sampling Techniques
 
 ## Objective
